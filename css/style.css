@@ -248,6 +248,10 @@ PRODUCTS SECTION
     display: inline;
 }
 
+.featureditem, .moreitems {
+    display: none;
+}
+
 .price {
     font-size: 16px;
     color: #000;
